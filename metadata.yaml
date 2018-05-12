@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25771'
     url: http://www.gutenberg.org/2009/agents/25771
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36692#The-Whole-Armour-of-God
 gutenberg_issued: '2011-07-10'
 gutenberg_type: Text
 identifiers:
